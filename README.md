@@ -38,8 +38,8 @@ The Bernoulli process · The Poisson process, parts I–II · Finite-state Marko
 
 ```
 .
-├── problem-sets/   # Worked problem sets, by lecture
-├── notes/          # Lecture notes and conceptual write-ups
+├── problem-sets/   
+├── notes/          
 └── README.md
 ```
 

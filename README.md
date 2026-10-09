@@ -51,6 +51,8 @@ Course materials © Massachusetts Institute of Technology, released under CC BY-
 
 The textbook is © Dimitri P. Bertsekas and John N. Tsitsiklis, Athena Scientific. It is not openly licensed and no textbook content is redistributed here. Problems are referenced by section and number only.
 
+The first two problem-set files (`ps-lectures-01-03.pdf` and `ps-lectures-04-06.pdf`) work through the 6.041 problem sets from MIT OpenCourseWare. The remaining files work through textbook problems.
+
 ---
 
 ## A Note on Provenance

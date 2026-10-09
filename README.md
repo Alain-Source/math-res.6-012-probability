@@ -5,7 +5,6 @@ Self-study notes, and worked problem sets for **MIT RES.6-012 Introduction to Pr
 **Course:** [ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/)
 
 RES.6-012 is the companion resource to [6.041SC Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/).
-It covers the same content, using videos developed for the edX version of the course.
 
 ---
 
